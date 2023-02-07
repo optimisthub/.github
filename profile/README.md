@@ -1,12 +1,5 @@
-## Hi there 👋
+## Merhaba 👋
 
-<!--
+#### Sizi ve işinizi önemseyen insanlar ile tanışmak ister misiniz?
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Projelerinize teklif almak, tanışmak için toplantı randevusu planlamak için sizi iletişim sayfamıza davet etmek isteriz. https://www.optimisthub.com/iletisim
