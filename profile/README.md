@@ -17,6 +17,7 @@
 
 #### WordPress Odaklı Eklenti Geliştirmelerimiz 
 
+- Akıllı Sitemap Oluşturucu *[Yeni]* : https://github.com/optimisthub/smart-sitemap
 - Zamanlama Kaçırıldı Hatası Giderici Eklentimiz : https://github.com/optimisthub/scheduled-posts-issue-fixer
 - SVG Yükleme Desteği Ekletimiz : https://github.com/optimisthub/wordpress-svg-enabler
 - Moka Woocommerce Eklentisi : https://github.com/optimisthub/moka-woocommerce
