@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://optimisthub.com">
-    <img alt="Optimisthub.com" src="https://optimisthub.com/copyright/optimist-hub-github-repo-cover-01.png" height="120px" style="height:120px"> 
+    <img alt="Optimisthub.com" src="https://optimisthub.com/copyright/optimist-hub-github-repo-cover-01.png"> 
   </a>
 </p>
 
