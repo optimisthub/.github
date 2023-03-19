@@ -4,24 +4,31 @@
   </a>
 </p>
 
-## Merhaba 👋
+## Hi 👋
 
-#### Sizi ve işinizi önemseyen insanlar ile tanışmak ister misiniz?
+#### Would you like to meet people who care about you and your business?
 
-- Projelerinize teklif almak, tanışmak için toplantı randevusu planlamak için sizi iletişim sayfamıza davet etmek isteriz. https://www.optimisthub.com/iletisim
+- We would like to invite you to our contact page to get offers for your projects, to schedule a meeting appointment to meet. https://www.optimisthub.com/iletisim
 
-#### Yeni tamamlanan projeler 
+#### Recently Completed Projects 
 
-- Akıllı Sitemap Oluşturucu **[Popüler]** : https://github.com/optimisthub/smart-sitemap-generator
+- WP Smart Sitemap Generator **[Popüler]** : https://github.com/optimisthub/smart-sitemap-generator
 
-## Öne Çıkan İşlerimiz
+## Featured Works {Payment Gateway Integration Development}
 
-- İş Bankası ve Moka Ödeme Sistemleri için geliştirdiğimiz Client yayında ! https://github.com/optimisthub/moka-php
-- OpenCart destekli Moka Ödeme Sistemi için hazır entegrasyon için paket eklentimiz yayında ! https://github.com/optimisthub/moka-opencart-3.x
+- The API PHP Client we developed for Moka {by İşbank} Payment Gateway is online ! https://github.com/optimisthub/moka-php
+- Opencart X Moka {by İşbank} Payment Gateway Integration Plugin : https://github.com/optimisthub/moka-opencart-3.x
+- WooCommerce X Moka {by İşbank} Payment Gateway Integration Plugin : https://github.com/optimisthub/moka-woocommerce 
 
-#### WordPress Odaklı Eklenti Geliştirmelerimiz 
+#### Our WordPress Focused Plugin Developments 
 
-- Akıllı Sitemap Oluşturucu *[Yeni]* : https://github.com/optimisthub/smart-sitemap-generator
-- Zamanlama Kaçırıldı Hatası Giderici Eklentimiz : https://github.com/optimisthub/scheduled-posts-issue-fixer
-- SVG Yükleme Desteği Ekletimiz : https://github.com/optimisthub/wordpress-svg-enabler
-- Moka Woocommerce Eklentisi : https://github.com/optimisthub/moka-woocommerce
+- WordPress Smart Sitemap Generator Plugin *[New]* : https://github.com/optimisthub/smart-sitemap-generator
+- WordPress Scheluded Post Issue Fixer Plugin : https://github.com/optimisthub/scheduled-posts-issue-fixer
+- WordPress SVG Enabler Plugin : https://github.com/optimisthub/wordpress-svg-enabler
+- WooCommerce X Moka {by İşbank} Payment Gateway Integration Plugin : https://github.com/optimisthub/moka-woocommerce 
+
+## Manifest
+
+#### Optimist Hub is a creative and innovative digital agency that adopts the philosophy of "less is more".
+#### Here, we believe in the power of quality, not quantity.
+#### Communication is an art and we are artists. The whole world is our channel...
