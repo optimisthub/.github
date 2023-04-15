@@ -12,7 +12,7 @@
 
 #### Recently Completed Projects 
 
-- WP Smart Sitemap Generator **[Popüler]** : https://github.com/optimisthub/smart-sitemap-generator
+- WP Smart Sitemap Generator **[Popular]** : https://github.com/optimisthub/smart-sitemap-generator
 
 ## Featured Works {Payment Gateway Integration Development}
 
